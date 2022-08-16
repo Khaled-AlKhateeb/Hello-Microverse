@@ -5,14 +5,13 @@ An attempt to master all of the tools and best practices we've learned in previo
 ## Built With
 
 - HTML/ CSS /Javascript
-- Frameworks
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 To get a local copy up and running follow these simple example steps.
+*copy the link under the code button
+*open terminal and type in the following command
+    git clone <link>
 
 ### Prerequisites
 
