@@ -4,7 +4,7 @@ An attempt to master all of the tools and best practices we've learned in previo
 
 ## Built With
 
-- HTML/ CSS /Javascript
+- HTML/ CSS
 
 ## Getting Started
 
@@ -14,17 +14,17 @@ To get a local copy up and running follow these simple example steps.
     git clone <link>
 
 ### Prerequisites
-
+Basics of HTML, CSS
 ### Setup
-
+Download the files, and open the index.html file
 ### Install
-
+No install needed
 ### Usage
-
+Check for HTML, CSS work
 ### Run tests
-
+No tests needed
 ### Deployment
-
+Google Chrome / Code editor (VS Code, Atom)
 ## Authors
 
 👤 **Author Khaled Al-Khateeb**
@@ -45,10 +45,7 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is does not need a License.
